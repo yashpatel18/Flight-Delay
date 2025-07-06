@@ -1,10 +1,4 @@
-Okay, I've received `FlightDelays.csv` and `Assignment 2.22.ipynb`. This project appears to be focused on predicting flight delays.
-
-Here's a README template for your "Flight Delay Prediction" project:
-
------
-
-## README Template: Flight Delay Prediction
+## Flight Delay Prediction
 
 ### Project Title
 
